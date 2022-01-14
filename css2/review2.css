@@ -1,0 +1,73 @@
+
+/* Header section */
+#tourbd1{
+    color:white;
+   font-size: 1.7vw;
+   justify-content: space-between;
+   position: relative;
+}
+
+
+
+
+/* start of review */
+#testimonials{
+    background-color:black;
+}
+
+#secheader{
+    margin-top: 6%;
+}
+
+#sec2{
+    color: white;
+}
+
+#sec3{
+    color: white;
+}
+
+#col1:hover{
+    background-color: rgb(0, 238, 255);
+}
+
+#col2:hover{
+    background-color: rgb(182, 115, 221);
+}
+
+#col3:hover{
+    background-color: rgb(135, 221, 128);
+}
+
+#col4:hover{
+    background-color: rgb(240, 132, 132);
+}
+#col5:hover{
+    background-color: rgb(128, 228, 181);
+}
+/* #col3{
+    background-color: #fff;
+} */
+.txtarea{
+    display: block;
+    color: rgb(194, 245, 171);
+    background-color: black;
+    margin-bottom: 100px;
+    text-align: justify;
+    /* row-gap:6; */
+}
+.txtarea:hover{
+    background-color: rgb(233, 13, 222);
+}
+
+
+
+
+
+/* Start footer */
+#footer{
+    background-color:black
+}
+.footer a{
+    color: cyan;
+}
