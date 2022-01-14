@@ -123,7 +123,7 @@
 	 /* background:url('http://cdn.wallpapersafari.com/13/6/Mpsg2b.jpg') top center no-repeat ;  */
 	background-size: cover;
 	font-family: 'Ubuntu', sans-serif;
-	background:url(assets/image2/login_background/l3.jpg) top center no-repeat;
+	background:url(../assets/image2/login_background/l3.jpg) top center no-repeat;
 	/* background-color: black; */
 	 
   }
